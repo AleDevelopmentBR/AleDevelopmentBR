@@ -1,7 +1,7 @@
 Oi, sou Alessandro Almeida e estou trabalhando no meu primeiro projeto.
 Estou estudando HTML, javascript, CSS, angular, nodejs , mysql e futuramente pyton.
 Sou formado em administração e em programação. Descobri o universo da programação e venho buscando novos conhecimentos a cada dia.
-Pretendo fazer minha segunda graduação em tecnólogo em análise de sistemas.
+Pretendo fazer minha segunda graduação de tecnólogo em análise e desenvolvimento de sistemas.
 
 
 
